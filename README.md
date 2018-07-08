@@ -1,8 +1,6 @@
 # Posenet + KNN Image Classifier Demo
 
-## Contents
-
-### Demo: Camera
+Check it out here: https://yining1023.github.io/posenet-knn/
 
 The camera demo shows how to create a custom classifier with 3 classes that can be trained in realtime using a webcamera on pose data. Hold down the train button to add samples to the classifier, and then let it predict which of the 3 classes that is closest.
 
