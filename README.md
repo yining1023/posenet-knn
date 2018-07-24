@@ -6,7 +6,7 @@ The camera demo shows how to create a custom classifier with 3 classes that can 
 
 ## Setup
 
-cd into the demos folder:
+cd into the project folder:
 
 Install dependencies and prepare the build directory:
 
